@@ -305,8 +305,7 @@
         flex-direction: column;
         gap: 23px;
     }
-    position: absolute;
-    top: 0;
+
 }
 
 nav{
